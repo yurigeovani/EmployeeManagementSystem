@@ -1,0 +1,2 @@
+//FIXME
+Change the type of RoleEntity to ENUM.
